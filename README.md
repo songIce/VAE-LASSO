@@ -1,2 +1,2 @@
 # VAE-LASSO
-This is the code of ....
+An RNA-editing-motivated machine learning model for accurately assessing the prognostic risk of hepatocellular carcinoma
